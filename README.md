@@ -1,6 +1,6 @@
 A clean and minimal Hyprland Wayland setup for Arch Linux, focused on productivity, aesthetics, and smooth workflow.<br><br>
 
-This configuration includes a fully customized desktop environment built around Hyprland with carefully tuned components for a modern tiling experience.<br><br>
+This configuration includes a fully customized desktop environment built around Hyprland with tuned components for a modern tiling experience.<br><br>
 
 ✨ Features:<br>
 🚀 Hyprland (Wayland compositor) as the core window manager<br>
